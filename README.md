@@ -9,7 +9,7 @@ Proficient in creating user interfaces, writing and testing codes, troubleshooti
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-a868f.web.app/)
 * ✉️  You can contact me at [abdallah.momo132@gmail.com](mailto:abdallah.momo132@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
